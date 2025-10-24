@@ -1,2 +1,5 @@
 [phases.build]
 aptPkgs = ["build-essential", "python3-dev", "libffi-dev", "pkg-config"]
+
+[providers]
+python = "3.11"
